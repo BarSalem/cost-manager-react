@@ -1,0 +1,19 @@
+.log-box {
+  width: 100%;
+  min-height: 30px;
+  padding-left:0.4em;
+  margin-bottom: 30px;
+  margin-top: 25px;
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 5px;
+  border-color: darkgrey;
+}
+
+.button-gr{
+  margin: 10px;
+}
+
+.log-text{
+  color: red;
+}
